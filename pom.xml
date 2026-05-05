@@ -11,6 +11,8 @@
 	<properties>
 		<docker.image.prefix>sreenath</docker.image.prefix>
 		<sonar.host.url>http://3.94.212.179:9000/</sonar.host.url>
+		<sonar.token>sqa_40d982411ba820a595a29663edea3649a2a25050</sonar.token>
+
 
 	</properties>
 
