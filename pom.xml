@@ -9,8 +9,8 @@
     <packaging>war</packaging>
 
 	<properties>
-		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http://3.83.18.215:9000/</sonar.host.url>
+		<docker.image.prefix>sreenath</docker.image.prefix>
+		<sonar.host.url>http://3.94.212.179:9000/</sonar.host.url>
 
 	</properties>
 
