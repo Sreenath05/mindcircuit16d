@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: sreenath05/jenkins:10
+          image: sreenath05/jenkins:11
           ports:
             - containerPort: 8080
